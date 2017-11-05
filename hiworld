@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main()
+{
+int i,j,k;
+printf("I have printed %d %d %d\n",i,j,k);
+}
